@@ -1,0 +1,54 @@
+{
+  "php.executablePath": "C:/laragon/bin/php/php-8.0.13-nts-Win32-vs16-x64/php.exe",
+  "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.codeLens.enabled": false,
+  "gitlens.statusBar.enabled": false,
+  "workbench.colorCustomizations": {
+    "terminal.background": "#0B1C2C",
+    "terminal.foreground": "#CBD6E2",
+    "terminalCursor.background": "#CBD6E2",
+    "terminalCursor.foreground": "#CBD6E2",
+    "terminal.ansiBlack": "#0B1C2C",
+    "terminal.ansiBlue": "#8B56BF",
+    "terminal.ansiBrightBlack": "#627E99",
+    "terminal.ansiBrightBlue": "#8B56BF",
+    "terminal.ansiBrightCyan": "#568BBF",
+    "terminal.ansiBrightGreen": "#56BF8B",
+    "terminal.ansiBrightMagenta": "#BF568B",
+    "terminal.ansiBrightRed": "#BF8B56",
+    "terminal.ansiBrightWhite": "#F7F9FB",
+    "terminal.ansiBrightYellow": "#8BBF56",
+    "terminal.ansiCyan": "#568BBF",
+    "terminal.ansiGreen": "#56BF8B",
+    "terminal.ansiMagenta": "#BF568B",
+    "terminal.ansiRed": "#BF8B56",
+    "terminal.ansiWhite": "#CBD6E2",
+    "terminal.ansiYellow": "#8BBF56"
+  },
+  "explorer.confirmDelete": false,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorWidth": 2,
+  "C_Cpp.updateChannel": "Insiders",
+  "security.workspace.trust.untrustedFiles": "open",
+  "vsicons.dontShowNewVersionMessage": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "[sql]": {
+    "editor.defaultFormatter": "cweijan.vscode-mysql-client2"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "files.eol": "\n",
+  "workbench.iconTheme": "material-icon-theme"
+}
